@@ -1,6 +1,7 @@
-# My First Django Project
-This walkthrough is closely related to the [djangoproject.com](
-https://docs.djangoproject.com/en/2.1/intro/tutorial01/) tutorial but with screenshots and terminal output for the complete beginner.
+# Todo project walkthrough
+
+This tutorial is a first introduction to Django and is a more personal version of the [djangoproject.com](
+https://docs.djangoproject.com/en/2.1/intro/tutorial01/) tutorial with screenshots and terminal output for the complete beginner.
 
 ## 1. Project Setup
 
